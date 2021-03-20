@@ -1,7 +1,7 @@
 # USAGE
 # python index.py --dataset dataset --index index.csv
 
-# import the necessary packages
+#import the necessary packages
 from pyimagesearch.colordescriptor import ColorDescriptor
 import argparse
 import glob
